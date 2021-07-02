@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horse Isle Hack Tool", "Horse Isle Hack Tool\Horse Isle Hack Tool.csproj", "{6E6C88BC-D138-42F7-B1C8-6A4E0125C69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E6C88BC-D138-42F7-B1C8-6A4E0125C69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6C88BC-D138-42F7-B1C8-6A4E0125C69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6C88BC-D138-42F7-B1C8-6A4E0125C69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6C88BC-D138-42F7-B1C8-6A4E0125C69D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {076217DF-D386-48C6-81E4-74B06822BEE0}
+	EndGlobalSection
+EndGlobal
